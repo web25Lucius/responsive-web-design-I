@@ -173,7 +173,11 @@ and (max-width: 800px) {
         color: #454745; 
         padding: 20px; 
         justify-content: center; 
-    }
+	}
+	
+	.wrapper {
+		width: 800px; 
+	} /*having trouble getting the page wrapped*
 
     .logo {
         padding: 30px; 
